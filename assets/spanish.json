@@ -205,6 +205,10 @@
             "value": 7
         },
         {
+          "name": "Slim",
+          "value": 6
+      },
+        {
             "name": "Flask",
             "value": 6
         },
