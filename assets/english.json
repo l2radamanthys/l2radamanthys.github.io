@@ -1,0 +1,292 @@
+{
+    "keys": {
+        "education": "Educación",
+        "about_me": "Acerca de",
+        "experience": "Experiencia Laboral",
+        "no_formal": "Capacitación no formal",
+        "professional_skill": "Habilidades Profesionales",
+        "programing_languajes": "Lenguajes de programación",
+        "frameworks": "Frameworks",
+        "data_bases_languajes": "Bases de Datos",
+        "resourses": "Recursos",
+        "personal_skill": "Aptitudes Personales"
+    },
+    "about_me": {
+        "first_name": "Ricardo Daniel",
+        "last_name": "Quiroga",
+        "birthdate": "20-06-1987",
+        "phone": "(+54) 387 576-4272",
+        "email": "ricardoquiroga.dev@gmail.com",
+        "address": "566 Jujuy Street, Suite B, 2nd Floor",
+        "city": "Salta Capital",
+        "zipcode": "4400",
+        "province": "Salta",
+        "country": "Argentina",
+        "job": "Developer",
+        "dob": "20/06/1987",
+        "experience": "5 years",
+        "availability": "Fulltime",
+        "marital_status": "single without children"
+    },
+    "education": [
+        {
+            "name": "Universidad Nacional de Salta",
+            "from": "2005",
+            "to": "2010",
+            "title": "Computador Universitario",
+            "status": "completed"
+        }, 
+        {
+            "name": "Universidad Nacional de Salta",
+            "from": "2005",
+            "to": "",
+            "title": "Licenciatura en Analisis de Sistemas",
+            "status": "no completed, abandoned in 2014"
+        }
+    ],
+    "no_formal": [
+        {
+            "name": "M101P MongoDB for Developers",
+            "description": "MongoDB for Developers, with distinction, score puts in the top 5% of all students who registered for the course.",
+            "from": "Mongo University",
+            "date": "July-2016"
+        }
+    ],
+    "experience": [
+        {
+            "name": "Ministerio de la Primera Infancia",
+            "from": "07/2015",
+            "to": "05/2018",
+            "description": "Desarrollo y mantenimiento de varios sistemas vinculados a seguimiento y monitoreo de menores en riesgo, metricas y analisis estadisticos de los datos obtenidos",
+            "job": "Analyst and web developer, backend and frontend",
+            "tecnologies": "LAMP, C#, WebForms, NetCore, Javascript, NodeJs, REST, Auth, AngularJs, AngularIO, SQl Server, MongoDb, Socket.io"
+        },
+        {
+            "name": "ClassApp",
+            "from": "04/2016",
+            "to": "11/2016",
+            "job": "Server admin and backend developer",
+            "description": "Mantenimiento del backend existente, migraciones de plataforma",
+            "tecnologies": "Ruby, Ruby on Rails, PostgreSQl, Redis, Docker, NodeJs, Facebook API, Azure, Heroku"
+        },
+        {
+            "name": "TuResto",
+            "from": "11/2014",
+            "to": "03/2015",
+            "job": "Data Mining, Clustering, Web Crawling, Backend developer",
+            "description": "Mineria de datos y clusterización de los mismos, desarrollo de una API Rest para consumir información",
+            "tecnologies": "Python, MongoDB, Flask, REST"
+        },
+        {
+            "name": "Petroandina S.R.L.",
+            "from": "01/2015",
+            "to": "05/2015",
+            "job": "Analysis, design and programing",
+            "description": "Desarrollo de sistema a medida, para la ayuda en la toma de decisiones, relevamiento de catastros, monitoreo de clientes",
+            "tecnologies": "Python, Django, Postgres, Postgis, QGis"
+
+        },
+        {
+            "name": "Freelancer",
+            "from": "08/2013",
+            "to": "10/2013",
+            "job": "Programing",
+            "description": "Development custom admin panel app to manage remote routers to IPTV",
+            "tecnologies": "LAMP"
+        }
+    ],
+    "professional_skill": [
+        {
+            "name": "Web Design",
+            "value": 7
+        },
+        {
+            "name": "Programing",
+            "value": 8
+        },
+        {
+            "name": "UI Design",
+            "value": 7
+        },
+        {
+            "name": "SEO",
+            "value": 3
+        },
+        {
+            "name": "Analysis",
+            "value": 7
+        },
+        {
+            "name": "Problem Solving",
+            "value": 7
+        },
+        {
+            "name": "Server Admin",
+            "value": 4
+        }
+    ],
+    "programming_languages": [
+        {
+            "name": "Python",
+            "value": 10
+        },
+        {
+            "name": "Javascript/Typescript",
+            "value": 9
+        },
+        {
+            "name": "Java",
+            "value": 5
+        },
+        {
+            "name": "PHP",
+            "value": 8
+        },
+        {
+            "name": "C#",
+            "value": 7
+        },
+        {
+            "name": "Ruby",
+            "value": 4
+        },
+        {
+            "name": "C++",
+            "value": 4
+        }
+    ],
+    "frameworks": [
+        {
+            "name": "Angular 2",
+            "value": 9
+        },
+        {
+            "name": "Angular Js",
+            "value": 7
+        },
+        {
+            "name": "Django",
+            "value": 8
+        },
+        {
+            "name": ".Net Core",
+            "value": 6
+        },
+        {
+            "name": "Codeigniter",
+            "value": 7
+        },
+        {
+            "name": "Web2Py",
+            "value": 6
+        },
+        {
+            "name": "Ruby on Rails",
+            "value": 5
+        },
+        {
+            "name": "Cordova",
+            "value": 8
+        }
+    ],
+    "data_bases_languages": [
+        {
+            "name": "MySQL",
+            "value": 5
+        },
+        {
+            "name": "Ms SQL Server",
+            "value": 5
+        },
+        {
+            "name": "Postgres",
+            "value": 4
+        },
+        {
+            "name": "MongoDb",
+            "value": 7
+        },
+        {
+            "name": "Redis",
+            "value": 7
+        }
+    ],
+    "others" : [
+        "GIT",
+        "Linux User",
+        "Windows",
+        "Docker"
+    ],
+    "resources": [
+        {
+            "name": "Stack Overflow",
+            "value": "https://es.stackoverflow.com/users/34430/ricardo-d-quiroga"
+        },
+        {
+            "name": "LinkedIn",
+            "value": "https://www.linkedin.com/in/ricardoquirogadev/"
+        },
+        {
+            "name": "Github",
+            "value": "https://github.com/l2radamanthys"
+        },
+        {
+            "name": "GitLab",
+            "value": "https://gitlab.com/l2radamanthys"
+        }
+    ],
+    "personal_skill": [
+        {
+            "name": "Socializing",
+            "value": 6
+        },
+        {
+            "name": "Creativity",
+            "value": 8
+        },
+        {
+            "name": "Organization",
+            "value": 5
+        },
+        {
+            "name": "Comunication",
+            "value": 7
+        },
+        {
+            "name": "Teamwork",
+            "value": 7
+        },
+        {
+            "name": "Adaptability",
+            "value": 7
+        },
+        {
+            "name": "Proactivity",
+            "value": 8
+        },
+        {
+            "name": "Autodidactic",
+            "value": 8
+        }
+    ], 
+    "language": [
+        {
+            "name": "English",
+            "nivel": "elementary",
+            "skills": [
+                {
+                    "name": "Listening",
+                    "value": 3
+                },
+                {
+                    "name": "Speaking",
+                    "value": 2
+                },
+                {
+                    "name": "Fluency",
+                    "value": 2
+                }
+            ]
+        }
+    ]
+}

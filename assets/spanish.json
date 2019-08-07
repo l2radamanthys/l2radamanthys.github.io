@@ -1,0 +1,319 @@
+{
+    "keys": {
+        "education": "Educación",
+        "about_me": "Acerca de",
+        "experience": "Experiencia Laboral",
+        "no_formal": "Capacitación no formal",
+        "professional_skill": "Habilidades Profesionales",
+        "programing_languajes": "Lenguajes de programación",
+        "frameworks": "Frameworks",
+        "data_bases_languajes": "Bases de Datos",
+        "resourses": "Recursos",
+        "personal_skill": "Aptitudes Personales",
+        "languaje": "Idiomas"
+    },
+    "about_me_": {
+        "name": "Nombre",
+        "birthdate": "Fecha de Nac.",
+        "phone": "Telefono",
+        "email": "Email",
+        "address": "Dirección",
+        "country": "Nacionalidad",
+        "job": "Profesión",
+        "dob": "Fecha de Nac.",
+        "city": "Ciudad",
+        "experience": "Experiencia",
+        "availability": "Disponibilidad",
+        "marital_status": "Estado Civil",
+        "modalidad": "Modalidad de Trabajo",
+        "cambio_residencia": "Cambio lugar de Residencía"
+    },
+    "about_me": {
+        "first_name": "Ricardo Daniel",
+        "last_name": "Quiroga",
+        "birthdate": "20-06-1987",
+        "phone": "(+54) 387 576-4272",
+        "email": "ricardoquiroga.dev@gmail.com",
+        "address": "Jujuy 566, Piso 2, Departamento B",
+        "city": "Salta Capital",
+        "province": "Salta",
+        "country": "Argentina",
+        "job": "Analista Programador",
+        "dob": "20/06/1987",
+        "experience": "8 años",
+        "availability": "Fulltime",
+        "marital_status": "soltero, sin hijos",
+        "modalidad": "Remoto, in office, Freelance",
+        "cambio_residencia": "Preferentemente No"
+    },
+    "education": [
+        {
+            "name": "Universidad Nacional de Salta",
+            "from": "2005",
+            "to": "2015",
+            "title": "Computador Universitario",
+            "status": "finalizado"
+        },
+        {
+            "name": "Universidad Nacional de Salta",
+            "from": "2005",
+            "to": "",
+            "title": "Licenciatura en Analisis de Sistemas",
+            "status": "no completada, abandonada en 5to año, 2014"
+        }
+    ],
+    "no_formal": [
+        {
+            "name": "M101P MongoDB for Developers",
+            "description": "MongoDB for Developers, with distinction, score puts in the top 5% of all students who registered for the course.",
+            "from": "Mongo University",
+            "date": "July-2016"
+        }
+    ],
+    "experience": [
+        {
+          "name": "Freelancer - GT Ingenieria",
+          "from": "03/2019",
+          "to": "Actualidad",
+          "description": "Servicio de Consultoria, desarrollo y mantenimiento de Software a medida",
+          "job": "Analisis, diseño y programación",
+          "tecnologies": "Python, Django, Django-REST, Angular"
+        },
+        {
+          "name": "Enjambre Bit SRL",
+          "from": "09/2018",
+          "to": "Actualidad",
+          "description": "Tarea de Analisis, programación",
+          "job": "Programador Sr. - Remoto",
+          "tecnologies": "Python, Django, Django-REST, EmberJS"
+        },
+        {
+            "name": "Ministerio de la Primera Infancia",
+            "from": "07/2015",
+            "to": "05/2018",
+            "description": "Desarrollo y mantenimiento de varios sistemas vinculados a seguimiento y monitoreo de menores en riesgo, metricas y analisis estadisticos de los datos obtenidos",
+            "job": "Analisis y Desarrollo de Aplicaciónes, Desarrollo Frontend y Backend",
+            "tecnologies": "LAMP, C#, WebForms, NetCore, Javascript, NodeJs, REST, Auth, AngularJs, AngularIO, SQl Server, MongoDb, Socket.io"
+        },
+        {
+            "name": "ClassApp",
+            "from": "04/2016",
+            "to": "11/2016",
+            "job": "Administrador de servidores y desarrollo Backend",
+            "description": "Mantenimiento del backend existente, migraciones de plataforma",
+            "tecnologies": "Ruby, Ruby on Rails, PostgreSQl, Redis, Docker, NodeJs, Facebook API, Azure, Heroku"
+        },
+        {
+            "name": "TuResto",
+            "from": "11/2014",
+            "to": "03/2015",
+            "job": "Data Mining, Clustering, Web Crawling, Backend developer",
+            "description": "Mineria de datos y clusterización de los mismos, desarrollo de una API Rest para consumir información",
+            "tecnologies": "Python, MongoDB, Flask, REST"
+        },
+        {
+            "name": "Freelancer - Petroandina S.R.L.",
+            "from": "01/2015",
+            "to": "05/2015",
+            "job": "Analisis, diseño y programación",
+            "description": "Desarrollo de sistema a medida, para la ayuda en la toma de decisiones, relevamiento de catastros, monitoreo de clientes",
+            "tecnologies": "Python, Django, Postgres, Postgis, QGis"
+        },
+        {
+            "name": "CeO2Soft",
+            "from": "10/2010",
+            "to": "Actualiadad",
+            "job": "Desarrollador Freelancer",
+            "description": "CeO2Soft (https://co2soft.com.ar) es un emprendimiento personal de manera freelancer donde se ofrece principalmente diseño web y desarrollo de aplicaciones a medida a pequeños clientes asi como terciarización de servicios."
+        }
+    ],
+    "professional_skill": [
+        {
+            "name": "Diseño Web",
+            "value": 7
+        },
+        {
+            "name": "Programación",
+            "value": 9
+        },
+        {
+            "name": "Diseño de UI",
+            "value": 7
+        },
+        {
+            "name": "Analisis",
+            "value": 8
+        },
+        {
+            "name": "Resolución de prob.",
+            "value": 9
+        },
+        {
+            "name": "Server Admin",
+            "value": 5
+        }
+    ],
+    "programing_languajes": [
+        {
+            "name": "Python",
+            "value": 10
+        },
+        {
+            "name": "Javascript",
+            "value": 8
+        },
+        {
+            "name": "Typescript",
+            "value": 9
+        },
+        {
+            "name": "PHP",
+            "value": 7
+        },
+        {
+            "name": "C#",
+            "value": 6
+        }
+    ],
+    "frameworks": [
+        {
+            "name": "Angular",
+            "value": 9
+        },
+        {
+            "name": "Ember Js",
+            "value": 7
+        },
+        {
+            "name": "React",
+            "value": 3
+        },
+        {
+            "name": "AngularJs",
+            "value": 7
+        },
+        {
+            "name": "Django",
+            "value": 9
+        },
+        {
+            "name": ".Net Core",
+            "value": 4
+        },
+        {
+            "name": "Codeigniter",
+            "value": 7
+        },
+        {
+            "name": "Flask",
+            "value": 6
+        },
+        {
+            "name": "Cordova",
+            "value": 7
+        },
+        {
+          "name": "Node",
+          "value": 5
+      }
+    ],
+    "data_bases_languajes": [
+        {
+            "name": "MySQL",
+            "value": 6
+        },
+        {
+            "name": "Ms SQL Server",
+            "value": 5
+        },
+        {
+            "name": "Postgres",
+            "value": 4
+        },
+        {
+            "name": "MongoDb",
+            "value": 7
+        },
+        {
+            "name": "Redis",
+            "value": 5
+        }
+    ],
+    "others" : [
+        "GIT",
+        "Linux Debian/Ubuntu User",
+        "Windows",
+        "Docker"
+    ],
+    "resources": [
+        {
+            "name": "LinkedIn",
+            "value": "https://www.linkedin.com/in/ricardoquirogadev/"
+        },
+        {
+            "name": "Stack Overflow",
+            "value": "https://es.stackoverflow.com/users/34430/ricardo-d-quiroga"
+        },
+        {
+            "name": "Github",
+            "value": "https://github.com/l2radamanthys"
+        },
+        {
+          "name": "Versión Web del Curriculum",
+          "value": "https://l2radamanthys.github.io"
+      }
+    ],
+    "personal_skill": [
+        {
+            "name": "Socialización",
+            "value": 6
+        },
+        {
+            "name": "Creatividad",
+            "value": 8
+        },
+        {
+            "name": "Organización",
+            "value": 5
+        },
+        {
+            "name": "Comunicación",
+            "value": 7
+        },
+        {
+            "name": "Trabajo en Equipo",
+            "value": 7
+        },
+        {
+            "name": "Adaptabilidad",
+            "value": 7
+        },
+        {
+            "name": "Proactividad",
+            "value": 8
+        },
+        {
+            "name": "Autodidacta",
+            "value": 8
+        }
+    ],
+    "languaje": [
+        {
+            "name": "English",
+            "skills": [
+                {
+                    "name": "Listening",
+                    "value": 4
+                },
+                {
+                    "name": "Speaking",
+                    "value": 2
+                },
+                {
+                    "name": "Fluency",
+                    "value": 2
+                }
+            ]
+        }
+    ]
+}
