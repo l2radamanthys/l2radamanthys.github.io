@@ -38,7 +38,7 @@
         "city": "Salta Capital",
         "province": "Salta",
         "country": "Argentina",
-        "job": "Analista Programador",
+        "job": "Programador Sr",
         "dob": "20/06/1987",
         "experience": "8 años",
         "availability": "Fulltime",
@@ -72,20 +72,36 @@
     ],
     "experience": [
         {
-          "name": "Freelancer - GT Ingenieria",
-          "from": "03/2019",
-          "to": "Actualidad",
-          "description": "Servicio de Consultoria, desarrollo y mantenimiento de Software a medida",
-          "job": "Analisis, diseño y programación",
-          "tecnologies": "Python, Django, Django-REST, Angular"
+            "name": "Freelancer - SSR Mining - Pirquitas",
+            "from": "03/2022",
+            "to": "Actualidad",
+            "description": "Tablero de Control Ambiental: Analisis y procesamiento de datos, soluciones a medida.",
+            "job": "Programación, Limpieza de datos",
+            "tecnologies": "Python, Django, Pandas, Jupyter Notebook, Dash, Plotly"
         },
         {
-          "name": "Enjambre Bit SRL",
-          "from": "09/2018",
-          "to": "Actualidad",
-          "description": "Tarea de Analisis, programación",
-          "job": "Programador Sr. - Remoto",
-          "tecnologies": "Python, Django, Django-REST, EmberJS"
+            "name": "Freelancer - Corrientes Argentinas - Taca Taca",
+            "from": "10/2021",
+            "to": "Actualidad",
+            "description": "Tablero de Control Ambiental: Analisis y procesamiento de datos, soluciones a medida.",
+            "job": "Programación, Limpieza de datos.",
+            "tecnologies": "Python, Django, Pandas, Jupyter Notebook, Dash, Plotly"
+        },
+        {
+            "name": "Enjambre Bit SRL",
+            "from": "09/2018",
+            "to": "Actualidad",
+            "description": "Tarea de Analisis, programación",
+            "job": "Programador Sr. - Remoto",
+            "tecnologies": "Python, Django, Django-REST, EmberJS"
+        },
+        {
+            "name": "Freelancer - GT Ingenieria",
+            "from": "03/2019",
+            "to": "09/2021",
+            "description": "Servicio de Consultoria, desarrollo y mantenimiento de Software a medida",
+            "job": "Analisis, diseño y programación",
+            "tecnologies": "Python, Django, Django-REST, Angular"
         },
         {
             "name": "Ministerio de la Primera Infancia",
@@ -122,7 +138,7 @@
         {
             "name": "CeO2Soft",
             "from": "10/2010",
-            "to": "Actualiadad",
+            "to": "12/2018",
             "job": "Desarrollador Freelancer",
             "description": "CeO2Soft (https://co2soft.com.ar) es un emprendimiento personal de manera freelancer donde se ofrece principalmente diseño web y desarrollo de aplicaciones a medida a pequeños clientes asi como terciarización de servicios."
         }
@@ -142,15 +158,15 @@
         },
         {
             "name": "Analisis",
-            "value": 8
-        },
-        {
-            "name": "Resolución de prob.",
             "value": 9
         },
         {
+            "name": "Resolución de prob.",
+            "value": 8
+        },
+        {
             "name": "Server Admin",
-            "value": 5
+            "value": 6
         }
     ],
     "programing_languajes": [
@@ -176,6 +192,14 @@
         }
     ],
     "frameworks": [
+        {
+            "name": "Pandas (Analisís de datos)",
+            "value": 7
+        },
+        {
+            "name": "Dash (Visualización de datos)",
+            "value": 5
+        },
         {
             "name": "Angular",
             "value": 9
@@ -205,21 +229,21 @@
             "value": 7
         },
         {
-          "name": "Slim",
-          "value": 6
-      },
+            "name": "Slim",
+            "value": 6
+        },
         {
             "name": "Flask",
             "value": 6
         },
         {
-            "name": "Cordova",
+            "name": "Phonegap/Cordova",
             "value": 7
         },
         {
-          "name": "Node",
-          "value": 5
-      }
+            "name": "Node",
+            "value": 7
+        }
     ],
     "data_bases_languajes": [
         {
@@ -232,7 +256,7 @@
         },
         {
             "name": "Postgres",
-            "value": 4
+            "value": 8
         },
         {
             "name": "MongoDb",
@@ -240,14 +264,16 @@
         },
         {
             "name": "Redis",
-            "value": 5
+            "value": 8
         }
     ],
     "others" : [
         "GIT",
         "Linux Debian/Ubuntu User",
         "Windows",
-        "Docker"
+        "Docker",
+        "Dokku",
+        "Jupyter Notebook"
     ],
     "resources": [
         {
@@ -263,9 +289,9 @@
             "value": "https://github.com/l2radamanthys"
         },
         {
-          "name": "Versión Web del Curriculum",
-          "value": "https://l2radamanthys.github.io"
-      }
+            "name": "Versión Web del Curriculum",
+            "value": "https://l2radamanthys.github.io"
+        }
     ],
     "personal_skill": [
         {
@@ -290,11 +316,11 @@
         },
         {
             "name": "Adaptabilidad",
-            "value": 7
+            "value": 8
         },
         {
             "name": "Proactividad",
-            "value": 8
+            "value": 7
         },
         {
             "name": "Autodidacta",
@@ -303,11 +329,11 @@
     ],
     "languaje": [
         {
-            "name": "English",
+            "name": "Inglès",
             "skills": [
                 {
                     "name": "Listening",
-                    "value": 4
+                    "value": 3
                 },
                 {
                     "name": "Speaking",
